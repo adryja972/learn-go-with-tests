@@ -14,7 +14,7 @@ func TestGETPlayers(t *testing.T) {
 
 	t.Run("returns Pepper's score", func(t *testing.T) {
 		got := response.Body.String()
-		want := "20"
+		want := "Hello DevOps"
 
 		if got != want {
 			t.Errorf("got %q, want %q", got, want)

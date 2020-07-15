@@ -4,6 +4,3 @@ agouagou
 
 test
 blabla
-dfvrfrdv
-hg,hg
-k,ninibi
